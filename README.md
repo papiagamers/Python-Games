@@ -126,7 +126,7 @@ Python-Games/
 **▶ How to Run the Projects**
 
 Clone the repository:
-``
+```
 git clone https://github.com/your-username/mini-python-games.git
 ```
 Navigate to any project folder:
