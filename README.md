@@ -127,7 +127,7 @@ Python-Games/
 
 Clone the repository:
 ```
-git clone https://github.com/your-username/mini-python-games.git
+git clone https://github.com/papiagamers/Python-Games.git
 ```
 Navigate to any project folder:
 ```
